@@ -29,7 +29,7 @@ theme:
         name: Switch to light mode
       primary: blue
       accent: lime
-plugins:
+  plugins:
     - offline
 markdown_extensions:
   - pymdownx.highlight:

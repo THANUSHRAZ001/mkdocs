@@ -2,10 +2,7 @@
 
 ## **INTRODUCTION**
 
-Rokam is a company focused on providing innovative solutions for industrial automation. Based in Bangalore, India, we specialize in advanced automation technologies such as surface detect inspection, OCR/OCV (Optical Character Recognition/Optical Character Verification), and critical measurements. These technologies are integrated into our specialized application, **QualityInspection**, which is designed to enhance precision and operational efficiency in various industrial processes.
-
-Rokam's solutions are tailored to streamline production and improve overall productivity across a diverse range of industries, including tyres, wood, automotive, rubber, logistics, and mining etc.
-
+Our application specialize in advanced automation technologies such as surface detect inspection, OCR/OCV (Optical Character Recognition/Optical Character Verification), and critical measurements. These technologies are integrated into our specialized application, **QualityInspection**, which is designed to enhance precision and operational efficiency in various industrial processes.
 
 ## **QUALITY INSPECTION** DASHBOARD
 
