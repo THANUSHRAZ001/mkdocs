@@ -1,4 +1,5 @@
 site_name: ROKAM
+
 theme:
   name: material
   logo: assets/images/logo.png
@@ -28,9 +29,8 @@ theme:
         name: Switch to light mode
       primary: blue
       accent: lime
-  plugins:
+plugins:
     - offline
-
 markdown_extensions:
   - pymdownx.highlight:
       anchor_linenums: true
