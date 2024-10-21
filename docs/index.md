@@ -63,3 +63,6 @@ Our application specialize in advanced automation technologies such as surface d
 
 ![alt text](path/image-15.png)
 
+## **ALARMS**
+
+![alt text](path/image-16.png)
